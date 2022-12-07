@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Poppins:wght@100;400&family=Raleway:wght@100&family=Roboto:wght@100;300&family=Water+Brush&display=swap');
+
+body {
+  font-family: Raleway, sans-serif;
+  margin: 0;
+  font-size: 1.5em;
+  text-align: center;
+  background: #9eb1dc;
+  color: rgb(57, 45, 130);
+}
+
